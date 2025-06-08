@@ -1,5 +1,10 @@
 pymongo == 4.2.0
-sys
-os
+seaborn
+matplotlib
+scikit-learn
+xgboost
+catboost
+numpy
+pandas
 
 -e .

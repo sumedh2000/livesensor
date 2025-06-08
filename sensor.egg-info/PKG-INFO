@@ -1,6 +1,9 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: sensor
 Version: 0.0.1
 Author: Sumedh
 Author-email: sumedhbhatwadekar122@gmail.com
 Requires-Dist: pymongo
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
