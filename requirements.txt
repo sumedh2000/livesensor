@@ -6,5 +6,6 @@ xgboost
 catboost
 numpy
 pandas
-
+imblearn
+miceforest
 -e .
